@@ -41,3 +41,5 @@ ipykernel
 
 # Constraints
 numpy<2.0
+
+qwen_tts==0.1.1
